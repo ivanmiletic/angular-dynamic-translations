@@ -1,0 +1,6 @@
+{
+  "main.header.welcome": "Bienvenue",
+  "main.page.title": "{{title}} est en cours d'exécution!",
+  "main.page.section.languages.title": "Langages",
+  "main.page.section.languages.subtitle": "Essayons de changer de langue!"
+}
